@@ -66,9 +66,12 @@ faudra faire la conversion
 <div align="center">
     <img src="./images/image2.png" alt="image">
 </div>
-Les structures de données
+
+## Les structures de données
+
 Il existe plusieurs structures de données au sein de Python:
-• Les listes, associées aux crochets []
-• Les dictionnaires, associés aux accolades {}
-• Les tuples, 2 éléments ou plus, immuables, entre parenthèses ()
+- Les listes, associées aux crochets []
+- Les dictionnaires, associés aux accolades {}
+- Les tuples, 2 éléments ou plus, immuables, entre parenthèses ()
+
 Ces structures de données sont des types de variables à part entière
