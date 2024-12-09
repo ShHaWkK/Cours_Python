@@ -53,15 +53,19 @@ La commande type(varName) permet de connaître le type d’une variable.
 Python attribut automatiquement le bon type de variable
 Une variable change de type automatiquement si le type de son
 contenu change.
-![image](https://github.com/user-attachments/assets/bd234aa4-7940-4630-a1ce-d44a318a709f)
+<div align="center">
+    <img src="./images/image1.png" alt="image">
+  </div>
+
 
 Interaction utilisateur
 Avoir une interaction avec l’utilisateur peut être utile:
 • Nous allons donc utiliser le mot-clé: input
 • Tous les inputs sont des string, si vous souhaitez avoir un integer ou autre, il
 faudra faire la conversion
-![image](https://github.com/user-attachments/assets/ba8fbff0-66b4-4404-951e-5658d75ae524)
-
+<div align="center">
+    <img src="./images/image2.png" alt="image">
+</div>
 Les structures de données
 Il existe plusieurs structures de données au sein de Python:
 • Les listes, associées aux crochets []
